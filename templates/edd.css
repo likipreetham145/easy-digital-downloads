@@ -9,7 +9,6 @@
 @charset "UTF-8";
 
 /* Base styles for SVG icons. */
-
 .edd-icon {
 	display: inline-block;
 	fill: currentColor;
@@ -23,7 +22,6 @@
 .edd-icon-lock {
 	top: -0.125rem;
 }
-
 .edd-icon-spin {
 	display: inline-block;
 	-moz-animation: edd-icon-spin 2s infinite linear;
